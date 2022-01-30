@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOTOFUMI LLC</title>
+    <link>https://www.motofumi.com/</link>
+    <description>Recent content on MOTOFUMI LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 MOTOFUMI LLC</copyright><atom:link href="https://www.motofumi.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
